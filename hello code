@@ -5,5 +5,6 @@ int main() {
 Cout<<"ô chìn chá"<<endl;
 // cout viết thường nha m
 // dạ dạ
+cout<<"ko cần merge này"<<endl;
   return 0;
 }
