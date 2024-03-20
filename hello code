@@ -6,5 +6,7 @@ Cout<<"ô chìn chá"<<endl;
 // cout viết thường nha m
 // dạ dạ
 cout<<"ko cần merge này"<<endl;
+// có merge này
+
   return 0;
 }
