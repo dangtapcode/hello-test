@@ -3,5 +3,6 @@ using namespace std;
 int main() {
   cout << "Hello World!" << endl;
 Cout<<"ô chìn chá"<<endl;
+// cout viết thường nha m
   return 0;
 }
